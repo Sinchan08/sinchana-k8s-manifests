@@ -15,6 +15,6 @@ spec:
     spec: #It defines behavior of the pod and its container
       containers:
         - name: cart-container
-          image: murulisocial123/cart-page-test:1.0
+          image: muralisocial123/cart-page-test:1.0
           ports:
             - containerPort: 3000
